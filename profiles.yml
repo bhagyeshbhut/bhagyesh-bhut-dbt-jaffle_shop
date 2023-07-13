@@ -1,0 +1,13 @@
+my_new_project:
+  outputs:
+    dev:
+      account: ys93453.central-india.azure
+      database: ANALYTICS
+      password: Bhagyesh#2001
+      role: ACCOUNTADMIN
+      schema: BOOKINGS_DEV
+      threads: 4
+      type: snowflake
+      user: BHAGYESHBHUT
+      warehouse: COMPUTE_WH
+  target: dev
