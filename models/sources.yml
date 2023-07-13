@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: jaffle_shop
+    database: RAW
+    schema: BOOKINGS_SCHEMA
+    tables:
+      - name: bookings
+      - name: customers
